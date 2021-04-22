@@ -38,7 +38,7 @@ Now, just type hello at the command line and see how your command line responds!
 ##### future improvements
  - probably deleting shortcuts without having to go into the batch file and doing it manually
  - probably a replace shorcut functionality
- - probably some help functionality like Josiah Sayers has on his [Open project](https://github.nwie.net/sayerj1/Open-Create_Terminal_Shortcuts)
+ - probably some help functionality
  - probably display all currently defined shortcuts
  - maybe a command for fireworks, who knows
  
